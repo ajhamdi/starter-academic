@@ -12,8 +12,10 @@ active: false
 design:
   columns: "1"
   background:
-    color: navy
+    color: "#9595b3"
     text_color_light: true
+    gradient_start: "#c12020"
+    gradient_end: "#a69c9c"
   spacing:
     padding:
       - 20px
